@@ -1,0 +1,39 @@
+
+
+p {
+
+  text-align:center;
+  background-color:tomato;
+  font-family: courier;
+  font-size: 160%;
+
+}
+
+h1 {
+  text-align:center;
+  color: red;
+  font-family: courier;
+
+}
+
+h2{
+  text-align:center;
+  background-color:powderblue;
+  color: blue;
+  font-family: courier;
+}
+
+
+#photo
+{
+text-align:center;
+}
+
+
+
+#ll
+{
+  border:2px solid  red;
+
+
+}
